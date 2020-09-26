@@ -1,0 +1,11 @@
+header {
+  background: #02918C;
+  height: 62px;
+}
+
+.container {
+  width: 1008px;
+  margin: 0 auto 0 auto;
+  padding: 15px 50px;
+  font-family: arial;
+}
